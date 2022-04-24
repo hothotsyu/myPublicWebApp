@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZtzAtvBZ5F7UtuQlZiWGqtpK4EOdUw3eUiXeqB4EkOkh/Froy/MGIdLOJoQSlxhO2clCSnCyzwksc0UmRXMAw==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Az400\\myPublicWebApp\\myPublicWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linshan.xu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
